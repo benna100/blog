@@ -47,7 +47,9 @@ Stock photos, website illustrations, images for children's books, and 1000 more.
 
 But what about human artists creating art, what will happen with them? **I imagine that like we will pay more for human created art**. Exactly how we pay more for hand crafted vases and hand created furniture. Maybe I cannot see the difference but as a consumer I will be happy paying more knowing that i am supporting an artist
 
-So then I thought what about creating a magazine, like a travel magazine. I can generate images for my magazine automatically, awesome. Now I just need to write the content. Or no I guess GPT-3 can do that for me. Okay but the layouting I still need to do. For now yes, but if an AI can generate art then it can probably layout some text and some images too. Okay so what is left for me as a human? Simply writing the topic of the magazine: "urban travelling for seniors" "karate magazine focused on empowering teenagers". I can **get an ultra personal magazine in seconds.**
+So then I thought what about creating a magazine, like a travel magazine. I can generate images for my magazine automatically, awesome. Now I just need to write the content. Or no I guess GPT-3 can do that for me. Okay but the layouting I still need to do. For now yes, but if an AI can generate art then it can probably layout some text and some images too. 
+
+Okay so what is left for me as a human? Simply writing the topic of the magazine: "urban travelling for seniors" "karate magazine focused on empowering teenagers". I can **get an ultra personal magazine in seconds.**
 
 Now we are getting into where is see things going: All online content (blogs, videos, music, magazines, comments, posts etc) will be created to match your exact personality. When I listen to music it just continuously generates music that fit my exact likings. When I'm reading blogs its exactly catered to me. Unique and personal. 
 
