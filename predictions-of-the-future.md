@@ -6,7 +6,7 @@ So this week has been absolutely wild AI wise. Two announcements has really made
 
 ## Language models
 
-The first announcement is a new language model from Google called PALM (https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html). The model is similar to GPT-3 in the sense that you input a prompt and the model will then continue the what you prompt it. GPT-3 is absolutely insane textwise and can generate text that is indistinguishable from humans (I know cause I was fooled by this article: https://www.linkedin.com/pulse/how-ai-change-education-david-kofoed-wind/ ). GPT-3 has on its own learned math and programming which is absolutely insane
+The first announcement is a new language model from [Google called PALM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html). The model is similar to GPT-3 in the sense that you input a prompt and the model will then continue the what you prompt it. GPT-3 is absolutely insane textwise and can generate text that is indistinguishable from humans (I know cause I was fooled by [this article]( https://www.linkedin.com/pulse/how-ai-change-education-david-kofoed-wind/). GPT-3 has on its own learned math and programming which is absolutely insane
 
 GPT-3 has 175 billion parameters. Googles PAML will have 540 billion parameters so it should be more than twice as good 😱 So how good is it? Well we don't know yet since it is not public yet. BUT here is an insane example 👇
 
@@ -25,7 +25,7 @@ So okay we will be able to generate text that is indistinguishable from people. 
 
 ## Image generation
 
-Openai that created GPT-3 has created a image generation tool called DALL·E 2. It works be the user writing some text and then an image will be created matching that description. https://openai.com/dall-e-2/
+Openai that created GPT-3 has created a image generation tool called [DALL·E 2](https://openai.com/dall-e-2/). It works be the user writing some text and then an image will be created matching that description. 
 
 Here is an example of "An astronaut riding a horse in a photorealistic style"
 
@@ -55,7 +55,7 @@ Here is an example of that but for search
 
 ![Search engine](https://github.com/jokenox/Goopt/raw/master/src/assets/demo.gif)
 
-Here GPT-3 generates suggestions based on the search query. New  when I click a link that webpage is automatically generated on the fly (using the link title) 🤯 https://github.com/jokenox/Goopt
+This is a tool called [Goopt](https://github.com/jokenox/Goopt). Goopt works be getting GPT-3 to generate suggestions based on the search query. New when I click a link that webpage is automatically generated on the fly (using the link title) 🤯 
 
 So ultra personal content catered to your exact likings
 
@@ -67,11 +67,11 @@ Okay what happens with artists, designers, layouters, coders, illustrators? I do
 
 So the last I will touch on is the thought of consciousness. So if I can generate text that sound like a person, is that thing then thinking? 
 
-Look at this example of a person writing to GPT-3 like it was his therapist: https://www.youtube.com/watch?v=TdTxg8istNg 
+Look at [this example](https://www.youtube.com/watch?v=TdTxg8istNg ) of a person writing to GPT-3 like it was his therapist: 
 
 To me that sounds like a real person he is talking to. So in some ways is it not? Maybe not a person but at least a conscious being. 
 
-I played a game called Fallout 4 where you have to pick sides between supporting robots or not. Here robots are walking, talking and have personality. But some people see them as "just" machines not capable of feelings. I think that very soon we will need to make this distinction (If not already) Check out this amazing video: https://www.youtube.com/watch?v=C1G5b_2PYj0
+I played a game called Fallout 4 where you have to pick sides between supporting robots or not. Here robots are walking, talking and have personality. But some people see them as "just" machines not capable of feelings. I think that very soon we will need to make this distinction (If not already). Check out [this amazing video](https://www.youtube.com/watch?v=C1G5b_2PYj0)
 
 Not seeing robots as conscious I think will be the new racism. "they don't have feeling", "they don't truly understand", etc. I know this is a bit out there, but mark my words haha
 
