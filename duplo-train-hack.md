@@ -1,4 +1,4 @@
-# This is how I hacked my sons Duplo train to go faster - only using my voice
+# How I hacked my sons Duplo train to go faster using my voice
 
 
 
